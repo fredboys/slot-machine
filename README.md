@@ -1,1 +1,1 @@
-# slot-machine
+# Python-slot-machine
